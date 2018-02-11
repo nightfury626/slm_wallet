@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=SiliconLumen Wallet
+Comment=SiliconLumen wallet
+Exec=SiliconLumen %U
+Terminal=false
+Type=Application
+Icon=siliconlumen
+MimeType=x-scheme-handler/siliconlumen;
+Categories=Office;Finance;
